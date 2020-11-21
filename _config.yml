@@ -21,7 +21,7 @@
 title: Joshua Okafor
 #email: joshuaokafor49@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I like to write about Data Analysis, Machine Learning, Artificial Intelligence, and Cloud Computing.
+  Data Analysis, Machine Learning, Artificial Intelligence, and Cloud Computing.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://joshuaokafor.github.io" # the base hostname & protocol for your site, e.g. http://example.com
