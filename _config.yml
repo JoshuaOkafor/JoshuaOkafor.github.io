@@ -29,7 +29,7 @@ twitter_username: joshuaokafor_
 github_username:  joshuaokafor
 
 # Build settings
-theme: minima
+remote_theme: slate
 plugins:
   - jekyll-feed
 
